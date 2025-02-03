@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_expense"
+        android:title="Add Expense" />
+    <item
+        android:id="@+id/clear_expenses"
+        android:title="Clear All Expenses" />
+    <item
+        android:id="@+id/find_by_category"
+        android:title="Find All Expenses by Category" />
+    <item
+        android:id="@+id/find_by_date"
+        android:title="Find All Expenses by Date" />
+    <item
+        android:id="@+id/show_all_expenses"
+        android:title="Show All Expenses" />
+</menu>
+
