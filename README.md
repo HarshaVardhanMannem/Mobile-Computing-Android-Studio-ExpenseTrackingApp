@@ -49,6 +49,3 @@ For any questions or feedback, feel free to reach out:
 
 - **GitHub**: [HarshaVardhanMannem](https://github.com/HarshaVardhanMannem)
 
----
-
-Let me know if you'd like to make any adjustments or need help adding more specific details!
